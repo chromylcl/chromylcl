@@ -22,29 +22,7 @@
 
 ---
 
-### 🌟 Featured Projects
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| [EduNotes](https://github.com/chromylcl/EduNotes) | College Notes Platform | HTML, CSS, JS, Node.js |
 
-
----
-
-### 📊 GitHub Stats
-![chromylcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 Badges
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=chromylcl&theme=radical&margin-w=15)
-
----
-
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chromylcl&theme=tokyo-night)
-
----
 
 ### 🌐 Connect With Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)
