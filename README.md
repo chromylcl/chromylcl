@@ -29,6 +29,13 @@
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 ---
+### 📊 GitHub Stats
+![chromylcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&theme=tokyonight)
+---
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chromylcl&theme=tokyo-night)
+
 
 ### ✨ Quote I Live By
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
