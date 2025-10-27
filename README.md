@@ -10,6 +10,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
   
 
 ---
