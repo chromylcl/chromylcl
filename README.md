@@ -1,45 +1,55 @@
-<h1 align="center">Hi 👋, I'm Parth Atkari</h1>
-<h3 align="center">Developer | Open Source Contributor | Blockchain Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Parth (chromylcl)</h1>
+
+<p align="center">
+  <b>💻 IT Student | 🚀 Aspiring Blockchain & JS Developer | 🌱 Open Source Enthusiast</b>
+</p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🚀 Passionate Web Developer crafting impactful & user-centered solutions.  
-- 🔗 Exploring Blockchain, Web3, and Open Source contributions.  
-- 💡 Skilled in **C, C++, Python, JavaScript, HTML, CSS, and APIs**.  
+### 🌟 GitHub Overview
 
-
----
-
-### 🛠️ Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![API](https://img.shields.io/badge/API-00ADD8?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
 ---
 
+### ⚡ Streak & Contribution Graphs
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chromylcl&theme=tokyonight&hide_border=true" height="180em"/>
+</p>
 
-### 🌐 Connect With Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-
----
-### 📊 GitHub Stats
-![chromylcl's GitHub stats](https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&theme=tokyonight)
----
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chromylcl&theme=tokyo-night)
-
-
-### ✨ Quote I Live By
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chromylcl&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🙏 Thanks for visiting!
+### 🏆 Achievements & Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chromylcl&theme=tokyonight&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+### 🚧 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,nodejs,react,git,github" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/chromylcl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/chromylcl"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+⭐ **“Keep building. Keep learning. Keep committing.”**
