@@ -39,7 +39,7 @@
 ### 🚧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,nodejs,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,bitcoin,MySQL" />
 </p>
 
 ---
