@@ -12,7 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
-  
 
 ---
 
@@ -39,7 +38,8 @@
 ### 🚧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,bitcoin,MySQL" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,git,github,mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="48" height="48" alt="Bitcoin"/>
 </p>
 
 ---
@@ -48,8 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/chromylcl"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/parth-atkari-b42412349
-"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/parth-atkari-b42412349"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
