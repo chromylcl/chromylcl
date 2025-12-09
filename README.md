@@ -46,7 +46,7 @@
 
 ### 🧠 Exploring
 
-```yaml
+
 - 🔗 Blockchain Development
 - 📜 Smart Contracts (Solidity)
 - 🌐 Web3.js / Ether.js
