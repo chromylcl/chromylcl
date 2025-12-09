@@ -7,7 +7,16 @@
 
 ---
 
+### 🌟 GitHub Highlights
 
+<a href="https://github.com/chromylcl" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="160em"/>
+</a>
+<a href="https://github.com/chromylcl" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=15" height="160em"/>
+</a>
+
+---
 
 ### ⚡ Contribution Heat
 
@@ -17,11 +26,15 @@
 
 ---
 
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=chromylcl&theme=radical&no-frame=true&margin-w=10"/>
+
+---
 
 ### 🧰 Tech Toolbox
 
-<img src="https://skillicons.dev/icons?i=js,react,node.js,express.js,python,c,cpp,html,css,github,mysql,MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitcoin/bitcoin-original.svg" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,mysql,python,c,cpp" />
 
 ---
 
@@ -38,12 +51,6 @@
 <a href="https://github.com/chromylcl" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121111.svg?style=for-the-badge&logo=github"/></a>
 <a href="https://linkedin.com/in/parth-atkari-b42412349" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin"/></a>
 <a href="mailto:parthatkari@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
----
-
-### 🎉 Fun Zone
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&color=7DF3FF&lines=💡+Innovating+on+Blockchain;📚+Learning+Web3+%26+Smart+Contracts;🚀+Open+Source+Contributor;⚡+Bringing+Ideas+to+Life"/>
 
 ---
 
