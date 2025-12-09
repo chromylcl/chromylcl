@@ -11,7 +11,7 @@
 
 ### ⚡ Contribution Heat
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chromylcl&theme=radical&hide_border=true&border_radius=15" height="160em"/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chromylcl&theme=tokyonight&hide_border=true" height="180em" alt="GitHub Streak" /> </p>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chromylcl&bg_color=141321&color=E1E9F7&line=FF0050&point=7DF3FF&area=true&hide_border=true" />
 
