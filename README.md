@@ -7,16 +7,7 @@
 
 ---
 
-### 🌟 GitHub Highlights
 
-<a href="https://github.com/chromylcl" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=chromylcl&show_icons=true&theme=radical&hide_border=true&border_radius=15&count_private=true" height="160em"/>
-</a>
-<a href="https://github.com/chromylcl" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chromylcl&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=15" height="160em"/>
-</a>
-
----
 
 ### ⚡ Contribution Heat
 
